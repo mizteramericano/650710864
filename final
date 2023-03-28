@@ -1,0 +1,136 @@
+<!doctype html>
+
+<html>
+    <head>
+        <meta charset="utf-8">
+        <title>Home page</title>
+        <link rel="stylesheet" type="text/css" href="index.css">
+        
+    </head>
+    
+    <body>
+
+        <h1><center>S-cool sneakers</center></h1>
+        <center>
+            <div class="sneakers">
+            <a target="_blank" href="....">
+                <img src="..." width="600" height="400">
+            </a>
+            <div class="desc"><br>the best sale</br></div>
+        </div>
+        </center>
+        <p>The sneakers old school</p> 
+        <p><b><a href="https://thanthika864.w3spaces.com/product_detail.html" target="_blank">see more</a></b></p>
+    </body>
+</html>
+body{
+     background: rgb(204, 203, 203);
+     
+
+ }
+ h1{
+     color: rgb(123, 240, 77);
+     font-size: 30px;
+     font-family: Arial, Helvetica, sans-serif;
+ }
+ 
+ p{
+     text-align: center;
+     font-size: medium;
+     color: rgb(255, 255, 255);
+     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+ }
+a{
+    text-align: center;
+    font-size: 10px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    text-decoration: none;
+    color: black;
+}
+
+//product
+!doctype html>
+
+<html>
+    <head>
+        <meta charset="utf-8">
+        <title>Home page</title>
+        <link rel="stylesheet" type="text/css" href="detail.css">
+        
+    </head>
+    
+    <body>
+
+        <h1>Prduct Detail</h1>
+        <center>
+            <div class="sneakers">
+            <a target="_blank" href="....">
+                <img src="..." width="600" height="400">
+            </a>
+            <div class="desc"><br>convert all star</br></div>
+        </div>
+        </center>
+        <p>คอนเวิร์ต ออลสตาร์ เป็นรองเท้ารุ่นแรกๆของบริษัท คอนเวิร์ต ที่ผลิกรองเท้าสุดเจ๋งออกมามากมาย
+            <br>รุ่นออลสตาร์เป็นที่รู้จักในวการรองเท้ามากๆ ด้วยดีไซน์รองเท้า ที่ใช้ผ้าใบ เย็บด้วยตะเข็บละเอียด มีฟองเท้าเป็นพื้นรองเท้า
+            ทำให้ใส่แล้วสบาย มาพร้อมกับสีสุดจ๊าบ ที่แมทช์กับลุคไหนก็เข้ากัน</br> </p> 
+        <p><b><a href="https://thanthika864.w3spaces.com/about.html" target="_blank">abou me</a></b></p>
+    </body>
+</html> 
+ h1{
+     font-size: 40px;
+     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+ }
+ p{
+     text-align: center;
+     padding-bottom: 20px;
+ }
+ a{
+    text-align: center;
+    font-size: 10px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    text-decoration: none;
+    color: black;
+}
+//about
+<!doctype html>
+
+<html>
+    <head>
+        <meta charset="utf-8">
+        <title>About</title>
+        <link rel="stylesheet" type="text/css" href="about.css">
+    </head>
+    <body>
+        <h1>about me</h1>
+        <center>
+            <div class="me">
+            <a target="_blank" href="....">
+                <img src="..." width="600" height="400">
+            </a>
+            <div class="desc">thanthika sreejun</div>
+        </div>
+        <p><br>ชื่อ-สกุล: น.ส. ฑัณฑิการ์ ศรีจันทร์</br>
+            <br>รหัสนักศึกษา : 650710864</br>
+            <br>คณะ : วิทยาศาสตร์ สาขา เทคโนโลยีสารสนเทศ</br>
+            <br>ช่องทางติดต่อ : Facebook ฟอง กิ้ว</br>
+        </p>
+        
+    </body>
+       
+</html>
+ h1{
+     text-align: center;
+     font-size: 50px;
+     font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif
+ } 
+ div.me {
+  margin: 5px;
+  border: 1px solid #ccc;
+  float: left;
+  width: 180px;
+}
+p{
+    text-align: center;
+    font-size: 20px;
+    
+}
